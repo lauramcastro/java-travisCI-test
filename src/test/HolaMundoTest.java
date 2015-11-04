@@ -1,6 +1,8 @@
 import org.junit.Test;
 
-public class HolaMundoest {
+import static org.junit.Assert.*;
+
+public class HolaMundoTest {
 
     @Test
     public void escenario() {
