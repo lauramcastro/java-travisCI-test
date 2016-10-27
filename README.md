@@ -4,4 +4,4 @@
 
 Testing TravisCI for simple Java projects
 
-This branch (`ant') contains a manually-generated project tree and a manually-written `build.xml` file for building and testing.
+This branch (`ant`) contains a manually-generated project tree and a manually-written `build.xml` file for building and testing.
